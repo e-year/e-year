@@ -9,7 +9,7 @@ class Uriel:
         "Python",
     )
 
-    status = "Always building something."
+    status = "learning and always getting better at what i do."
 ```
 
 # what do i do? 
