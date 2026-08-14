@@ -1,16 +1,13 @@
-## Hi there 👋
+## welcome
 
-<!--
-**e-year/e-year** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+class Uriel:
+    github = "e-year"
+    discord = "batteryhealth"
 
-Here are some ideas to get you started:
+    languages = (
+        "Python",
+    )
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    status = "Always building something."
+```
